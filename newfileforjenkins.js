@@ -1,1 +1,0 @@
-https://jenkins-jenkintest.a3c1.starter-us-west-1.openshiftapps.com
